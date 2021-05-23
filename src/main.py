@@ -7,7 +7,7 @@ import tools.procesing as procesing
 
 def main():
 
-    image = cv2.imread("fp1.jpg", 0)
+    image = cv2.imread("img/fp1.jpg", 0)
 
     # cv2.imshow("Original fingerprint", image)
     # cv2.waitKey(0)
