@@ -23,7 +23,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Extracts features from the fp1.jpg fingerprint on images folder.
+Enhance fingerprint and extracts features (soon). Fingerprint fp1.jpg on scr/img folder.
 
 TO DO:
     
@@ -39,8 +39,6 @@ TO DO:
 ---
 
 ## How To Use
-
-#### Installation
 
 ```
 git clone https://github.com/mrfhink/Fingerprint-Enhanced-Recognition
